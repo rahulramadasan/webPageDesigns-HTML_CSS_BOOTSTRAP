@@ -1,0 +1,20 @@
+
+.home{
+    background-image: url(../image/BG3.jpg);
+    height : 600px;
+    width : 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar a{
+    margin-left: 0%;
+}
+.userimg{
+    width: 10%;
+    height: 80px;
+}
+.img{
+    width: 10%;
+    height: 10%;
+}
