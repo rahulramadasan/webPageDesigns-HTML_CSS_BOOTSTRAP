@@ -66,9 +66,16 @@
     width: 100%;
     height: 100vh;
 }
+.tab button{
+    border: none;
+}
 .tab button:hover {
-    background-color: rgb(235, 77, 49);
+    background-color: rgb(255, 94, 20);
   }
+.t{
+    margin-top: 5%;
+    margin-left: 45%;
+}
 /* ...................................................contacts.................................................... */
 .contact{
     width: 100%;
